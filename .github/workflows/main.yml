@@ -2,7 +2,7 @@ name: wf
 
 on:
   schedule:
-    - cron: '30 14 * * 1-5'
+    - cron: '30 13 * * 1-5'
 
 jobs:
   run:
